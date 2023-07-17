@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/servermonk/Algorithm-Visualizer.git"
+    "url": "git+https://github.com/ChiragChakerverty/DRISHYAM"
   },
   "keywords": [
     "graphs",
     "pathfinding-visualiser"
   ],
-  "author": "servermonk, zeddie",
+  "author": "Chirag, zeddie",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/servermonk/Algorithm-Visualizer/issues"
